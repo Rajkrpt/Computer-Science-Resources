@@ -30,6 +30,7 @@
 - [Guru99](https://www.guru99.com/machine-learning-tutorial.html)
 - [Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/machine-learning/)
+- [Machine Learning Tutorial](https://www.javatpoint.com/machine-learning)
 - [Tutorial List](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Notes On Using Data Science & Artificial Intelligence](https://chrisalbon.com/)
